@@ -1,0 +1,3 @@
+interface GokAttractie {
+    double kansSpelBelastingBetalen();
+}

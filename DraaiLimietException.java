@@ -1,0 +1,1 @@
+class DraaiLimietException extends Exception{ }
